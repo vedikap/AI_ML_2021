@@ -10,10 +10,10 @@ Following is the list of case studies and assignments I have worked on while lea
 
   - [House Price Prediction ](Projects/Machine_Learning/House%20Price%20Prediction/Advanced_linear_Reg_Assign.ipynb):Built a regularized (Ridge and Lasso)regression model to understand the most important variables to predict the house prices.
 
- - [Bike Sharing Demand Prediction](Projects/Machine_Learning/Rental%20Bike%20Sharing%20Case%20Study/Assignment_mlr.ipynb)
+  - [Bike Sharing Demand Prediction](Projects/Machine_Learning/Rental%20Bike%20Sharing%20Case%20Study/Assignment_mlr.ipynb)
  
 
-  - ### Exploratory Data Analysis
+ - ### Exploratory Data Analysis
 
    - [Loan Default Analysis](Projects/EDA/Lending%20Club%20Case%20Study/loan_default.ipynb):EDA to understand the driving factors behind loan default.
 
