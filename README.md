@@ -1,4 +1,4 @@
-# Data Science Practice Projects
+# Data Science Projects
 
 Following is the list of case studies and assignments I have worked on while learning Data Science. 
 
